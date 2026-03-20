@@ -1,0 +1,1 @@
+{"name":"rrservice-bot","version":"4.4.0","description":"RR SERVICE BOT - Sistema de atendimento automático para assistência técnica","main":"index.js","type":"commonjs","scripts":{"start":"node index.js"},"author":"RR Service","license":"MIT","dependencies":{"@whiskeysockets/baileys":"^6.7.5","openai":"^6.32.0","pdfkit":"^0.15.0","pino":"^9.0.0","qrcode-terminal":"^0.12.0"}}

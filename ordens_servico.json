@@ -1,0 +1,34 @@
+[
+  {
+    "id_os": 1000,
+    "data": "18/03/2026, 11:55:26",
+    "nome": "Renato Solto",
+    "telefone": "11944773366",
+    "endereco": "Rua Xavantes 67",
+    "equipamento": "Tv 49",
+    "defeito": "Nao liga",
+    "status": "Aguardando Avaliação",
+    "historico": [
+      {
+        "data": "18/03/2026, 11:55:26",
+        "status": "Aguardando Avaliação"
+      }
+    ]
+  },
+  {
+    "id_os": 1001,
+    "data": "18/03/2026, 13:32:43",
+    "nome": "Ester Damasceno",
+    "telefone": "11977884455",
+    "endereco": "Rua Criciuma 88",
+    "equipamento": "Radio relogio",
+    "defeito": "Nao liga",
+    "status": "Aguardando Avaliação",
+    "historico": [
+      {
+        "data": "18/03/2026, 13:32:43",
+        "status": "Aguardando Avaliação"
+      }
+    ]
+  }
+]

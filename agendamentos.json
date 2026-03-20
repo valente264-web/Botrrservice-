@@ -1,0 +1,11 @@
+[
+  {
+    "id_agendamento": "AG1000",
+    "nome": "Rubeet",
+    "telefone": "11977885566",
+    "data": "14/05/26",
+    "hora": "13:00",
+    "endereco": "Rua potigua 56",
+    "status": "Agendado"
+  }
+]
