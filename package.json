@@ -1,1 +1,16 @@
-{"name":"rrservice-bot","version":"4.4.0","description":"RR SERVICE BOT - Sistema de atendimento automático para assistência técnica","main":"index.js","type":"commonjs","scripts":{"start":"node index.js"},"author":"RR Service","license":"MIT","dependencies":{"@whiskeysockets/baileys":"^6.7.5","openai":"^6.32.0","pdfkit":"^0.15.0","pino":"^9.0.0","qrcode-terminal":"^0.12.0"}}
+{
+  "name": "rr-service-bot",
+  "version": "5.0.0",
+  "description": "Bot WhatsApp RR Service",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.0",
+    "express": "^4.18.2",
+    "pino": "^8.17.0",
+    "qrcode-terminal": "^0.12.0",
+    "pdfkit": "^0.13.0"
+  }
+}
